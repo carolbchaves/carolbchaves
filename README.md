@@ -26,6 +26,9 @@
 - 🎯 **Gestão de projetos e equipes**
 
 ---
+### 📊 GitHub Analytics
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=diegookaique&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/crolbchaves)
+---
 
 ### 🌱 Em busca de...
 Atualmente, estou procurando **oportunidades para desenvolver e aprimorar minhas habilidades em Ciência de Dados**! Vamos conversar? 😊
